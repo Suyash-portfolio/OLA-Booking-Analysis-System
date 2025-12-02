@@ -1,4 +1,4 @@
-🚖 Ola Booking Analysis – Complete SQL Data Exploration Project
+🚖 Ola Booking Analysis – SQL Data Exploration Project
 
 This project presents an in-depth SQL-based analysis of Ola ride booking data, aimed at understanding user behavior, service efficiency, cancellation trends, and rating patterns. Using a well-structured bookings dataset, the project applies multiple SQL queries and views to extract valuable insights that can help ride-sharing platforms enhance performance and customer satisfaction.
 
